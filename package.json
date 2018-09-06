@@ -1,0 +1,23 @@
+{
+  "name": "task-3",
+  "version": "1.0.0",
+  "description": "task-3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel-node index.js"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-eslint": "^8.2.6",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "13.0.0",
+    "eslint-plugin-import": "^2.12.0",
+    "jsdoc": "^3.5.5"
+  },
+  "dependencies": {
+    "json-stringify-pretty-compact": "^1.2.0"
+  }
+}
