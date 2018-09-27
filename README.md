@@ -1,4 +1,5 @@
 <h5><a id="_3_______0"></a><em>Задание 3 — реализовать алгоритм работы «умного дома»</em></h5>
+<h6><em>https://github.com/yandex-shri-2018/entrance-task-3-2</em></h6>
 <hr>
 <p><em><code>cd task-3</code></em><br>
 <em><code>yarn install</code></em><br>
